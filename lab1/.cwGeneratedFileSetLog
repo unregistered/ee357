@@ -1,0 +1,17 @@
+Project_Settings/Startup_Code/startcf.c
+Sources/main.c
+Project_Settings/Startup_Code/startcf.h
+Project_Headers/uart_support.h
+Sources/uart_support.c
+Project_Headers/support_common.h
+Project_Headers/TWR-MCF5225X_sysinit.h
+Sources/TWR-MCF5225X_sysinit.c
+Sources/exceptions.c
+Project_Headers/exceptions.h
+Project_Settings/Debugger/TWR-MCF5225X.cfg
+Project_Settings/Debugger/TWR-MCF5225X.mem
+Sources/cfm.c
+Project_Settings/Linker_Files/TWR-MCF5225X_Internal_Flash.lcf
+Project_Settings/Linker_Files/TWR-MCF5225X_Internal_RAM.lcf
+Project_Settings/Linker_Files/TWR-MCF5225X_Console_Internal_RAM.lcf
+Sources/console_io_cf.c
